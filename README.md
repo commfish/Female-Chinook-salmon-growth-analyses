@@ -1,2 +1,2 @@
 # Female-Chinook-salmon-growth-analyses
-UAF-CIP project to study growth of female Chinook Salmon from populations throughout Alaska. Investigators are Milo Adkison and Megan McPhee, advising Lorna Wilson. Lorna Wilson is a Fisheries Ph.D. student at the University of Alaska Fairbanks, College of Fisheries and Ocean Sciences and an Alaska Department of Fish and Game employee.
+UAF-CIP project to study growth of female Chinook Salmon from populations throughout Alaska. Investigators are Milo Adkison and Megan McPhee, advising Lorna Wilson. Lorna Wilson is analyzing these growth measurements as a Fisheries Ph.D. student at the University of Alaska Fairbanks, College of Fisheries and Ocean Sciences and as an Alaska Department of Fish and Game employee.
